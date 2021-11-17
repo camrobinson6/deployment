@@ -21,11 +21,10 @@ p {
   }
 
   body {
-    background:radial-gradient(#1d1f20,#000);
-    margin:0;
+    background-color: dimgray;
   }
 
   h3 {
       font-family: fantasy;
-      color: darkgreen;
+      color: rgb(133, 5, 133);
   }
