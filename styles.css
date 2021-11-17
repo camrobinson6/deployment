@@ -6,3 +6,7 @@ color: #444444;
 background: #FFFFFF;
 text-align: center;
 }
+p {
+    font-family: fantasy;
+    color: darkgreen;
+}
