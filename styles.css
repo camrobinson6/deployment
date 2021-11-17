@@ -1,34 +1,4 @@
-.container{
-    width: 60%;
-    margin: 1rem auto;
-    padding: 2rem;
-    text-align: justify;
-    transition: all 0.3s;
-}
-.container p{
-    line-height: 1.5;
-    letter-spacing: 0.3px;
-    word-spacing: 2px;
-}
 
-.container p:first-child::first-letter{
-    color:#FE5F55;
-    font-weight: bold;
-    font-size: 70px;
-    float: left;
-    line-height: 60px;
-    padding-right: 8px;
-    margin-top: -3px;
-}
-
-@media screen and (max-width:600px){
-    .container{
-        width: 100%;
-        padding: 1rem;
-    }
-
-
-}
 
 
 
@@ -38,10 +8,10 @@ color: darkgreen;
 text-align: center;
 }
 
-/* p {
+p {
     font-family: fantasy;
     color: darkgreen;
-} */
+}
 
 .center {
     display: block;
@@ -51,7 +21,8 @@ text-align: center;
   }
 
   body {
-      background-color: rgb(170, 101, 11);
+    background:radial-gradient(#1d1f20,#000);
+    margin:0;
   }
 
   h3 {
