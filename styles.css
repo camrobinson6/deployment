@@ -18,6 +18,6 @@ p {
     width: 50%;
   }
 
-  background {
-      color: tan
+  body {
+      background-color: rgb(170, 101, 11);
   }
