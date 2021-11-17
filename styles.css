@@ -4,13 +4,13 @@
 
 
 h1 {
-color: darkgreen;
+color: gold;
 text-align: center;
 }
 
 p {
     font-family: fantasy;
-    color: darkgreen;
+    color: black;
 }
 
 .center {
@@ -26,5 +26,5 @@ p {
 
   h3 {
       font-family: fantasy;
-      color: rgb(133, 5, 133);
+      color: black;
   }
